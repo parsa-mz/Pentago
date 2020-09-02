@@ -33,7 +33,7 @@ players win if they get five of their marbles in a vertical, horizontal or diago
 More information about the game can be found on [its wikipedia page](http://en.wikipedia.org/wiki/Pentago).
 
 ## Algorithm
-Bot uses Minmax and Alpha-Beta Puring algorithms for desision making. [Wikipedia](http://en.wikipedia.org/wiki/Minimax)
+Bot uses Minmax and Alpha-Beta Puring algorithms for decision making. [Wikipedia](http://en.wikipedia.org/wiki/Minimax)
 
 Alpha-Beta puring is a optimization of the minmax algorithm that decreases the number of nodes that are evaluated by the minimax algorithm in its search tree and therefore it runs much faster and allows us to go into deeper levels in the game tree.
 
